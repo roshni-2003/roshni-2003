@@ -5,7 +5,7 @@ I'm a computer science student and have been programming since I was 12. I'm alw
 ❓ experiences
 
     🏫 Events Coordinator at the Laurier Computing Society
-    👩‍💻 Junior Web Development Intern at ProjectBoard
+    👩‍💻 Junior Web Developer at ProjectBoard
 
 👐 about me
 
