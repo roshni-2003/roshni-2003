@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer science student and have been programming since I was 12. I'm always open to new opportunities and keep trying my hand at basically everything.
+I'm Roshni, a computer science student and have been programming since I was 12. I'm always open to new opportunities and keep trying my hand at basically everything.
 
 ❓ experiences
 
@@ -19,7 +19,9 @@ I'm a computer science student and have been programming since I was 12. I'm alw
 ☎️ socials
 
     🟣 Instagram: @rrrosh_420
+    
     🔵 Linkedin: in/roshni-mahindru
+    
     ⚫ Discord: rrrosh_420#9840
 
 <!--
