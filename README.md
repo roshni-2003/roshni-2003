@@ -8,6 +8,8 @@ I'm Roshni, a computer science student and have been programming since I was 12.
     
     👩‍💻 Junior Web Developer at ProjectBoard
 
+    💻 Systems Analyst Intern at OpenText
+
 👐 about me
 
     🇦🇪 Born and raised in Abu Dhabi, U.A.E.
