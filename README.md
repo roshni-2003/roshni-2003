@@ -4,7 +4,7 @@ I'm Roshni, a computer science student and have been programming since I was 12.
 
 ❓ experiences
 
-    🏫 Events Coordinator at the Laurier Computing Society
+    🏫 Vice President of Events Coordination at the Laurier Computing Society
     
     👩‍💻 Junior Web Developer at ProjectBoard
 
@@ -16,7 +16,7 @@ I'm Roshni, a computer science student and have been programming since I was 12.
     
     🇨🇦 Moved to Canada at 13 and currently in Waterloo, Ontario
 
-    📚 I'm a second year student of Computer Science at Wilfrid Laurier University
+    📚 I'm a third year student of Computer Science at Wilfrid Laurier University
 
 ☎️ socials
 
